@@ -11,4 +11,7 @@ module.exports = {
     config.resolve.alias['~'] = path.join(__dirname, 'src')
     return config
   },
+  sassOptions: {
+    prependData: '@import "./src/assets/styles/_index.scss";',
+  },
 }

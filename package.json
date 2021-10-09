@@ -13,7 +13,8 @@
     "prepare": "husky install",
     "lint-staged": "lint-staged",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "hygen": "hygen"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [
@@ -46,6 +47,7 @@
     "eslint": "^7.32.0",
     "eslint-config-next": "^11.1.2",
     "husky": "^7.0.0",
+    "hygen": "^6.1.0",
     "lint-staged": "^11.2.1"
   }
 }

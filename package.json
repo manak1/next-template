@@ -23,7 +23,6 @@
     ]
   },
   "dependencies": {
-    "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.2",
     "@types/node": "^16.10.3",
     "@types/react": "^17.0.27",
@@ -43,6 +42,7 @@
     "@storybook/addon-essentials": "^6.3.10",
     "@storybook/addon-links": "^6.3.10",
     "@storybook/react": "^6.3.10",
+    "@testing-library/react": "^12.1.2",
     "babel-loader": "^8.2.2",
     "eslint": "^7.32.0",
     "eslint-config-next": "^11.1.2",

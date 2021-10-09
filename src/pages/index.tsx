@@ -1,7 +1,8 @@
-export default function Home() {
-  return (
-    <div>
-      <h1>hello world</h1>
-    </div>
-  )
+import React from 'react'
+import { NextPage } from 'next'
+
+const Home: NextPage = () => {
+  return <div></div>
 }
+
+export default Home

@@ -1,0 +1,11 @@
+.container {
+  max-width: 480px;
+  padding: 0 $spacing_xs;
+  margin: 0 auto;
+}
+
+.layout {
+  min-height: 100vh;
+  background-color: $primary_bg_color;
+  text-align: center;
+}

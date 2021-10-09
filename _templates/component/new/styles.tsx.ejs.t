@@ -1,5 +1,5 @@
 ---
-to: "<%= withCss ? `src/components/${path}/${name}/index.scss` : null %>"
+to: "<%= withCss ? `src/components/${path}/${name}/styles.module.scss` : null %>"
 ---
 .<%= name.toLowerCase() %> {
 

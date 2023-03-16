@@ -43,9 +43,9 @@
   "devDependencies": {
     "@babel/core": "7.15.8",
     "@storybook/addon-actions": "6.3.10",
-    "@storybook/addon-essentials": "6.3.10",
+    "@storybook/addon-essentials": "6.4.13",
     "@storybook/addon-links": "6.3.10",
-    "@storybook/react": "6.3.10",
+    "@storybook/react": "6.4.13",
     "@testing-library/react": "12.1.2",
     "babel-loader": "8.2.2",
     "eslint": "7.32.0",
